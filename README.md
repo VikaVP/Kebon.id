@@ -98,13 +98,12 @@ See the [open issues](https://github.com/VikaVP/Kebon.id/issues) for a list of p
       <image width="200" src='./screenshoot/profile.png' />
         <image width="200" src='./screenshoot/profileseller.png' />
       <image width="200" src='./screenshoot/photo.png' />
-<image width="200" src='./screenshoot/detail.png' />
   </span>
 </p>
 <p align='center'>
   <span>
-      <image width="200" src='../screenshoot/addstore.png' />
-<image width="200" src='../screenshoot/detail.png' />
+      <image width="200" src='./screenshoot/addstore.png' />
+<image width="200" src='./screenshoot/detail.png' />
       
   </span>
 </p>
